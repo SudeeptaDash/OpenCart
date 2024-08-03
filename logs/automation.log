@@ -1,0 +1,25 @@
+2024-08-03 11:51:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SUDEEPTA DASH\eclipse-workspace\OpenCart\testng.xml
+
+2024-08-03 11:52:03 INFO  TC001_AccountRegistrationTest:20 - *****Starting Registration.....*****
+2024-08-03 11:52:03 INFO  TC001_AccountRegistrationTest:23 - *****Clicked on My account Link*****
+2024-08-03 11:52:03 INFO  TC001_AccountRegistrationTest:25 - *****Clicked on Registration Link*****
+2024-08-03 11:52:04 INFO  TC001_AccountRegistrationTest:29 - *****Entering customer details in the Registration Link*****
+2024-08-03 11:52:05 INFO  TC001_AccountRegistrationTest:43 - *****Validating the confirm message*****
+2024-08-03 11:52:05 INFO  TC001_AccountRegistrationTest:53 - Registration completed successfully and confirmation message displayed
+2024-08-03 11:52:09 INFO  TC002_AccountLoginTest:20 - *************Started Login Test***************
+2024-08-03 11:52:09 INFO  TC002_AccountLoginTest:23 - *************Clicked on My account***************
+2024-08-03 11:52:09 INFO  TC002_AccountLoginTest:25 - *************Clicked on Login***************
+2024-08-03 11:52:09 INFO  TC002_AccountLoginTest:30 - *************Entered user nameand password***************
+2024-08-03 11:52:10 INFO  TC002_AccountLoginTest:32 - *************Page Submitted***************
+2024-08-03 12:07:34 INFO  TC001_AccountRegistrationTest:20 - *****Starting Registration.....*****
+2024-08-03 12:07:34 INFO  TC001_AccountRegistrationTest:23 - *****Clicked on My account Link*****
+2024-08-03 12:07:34 INFO  TC001_AccountRegistrationTest:25 - *****Clicked on Registration Link*****
+2024-08-03 12:07:34 INFO  TC001_AccountRegistrationTest:29 - *****Entering customer details in the Registration Link*****
+2024-08-03 12:07:36 INFO  TC001_AccountRegistrationTest:43 - *****Validating the confirm message*****
+2024-08-03 12:07:36 INFO  TC001_AccountRegistrationTest:53 - Registration completed successfully and confirmation message displayed
+2024-08-03 12:07:38 INFO  TC002_AccountLoginTest:20 - *************Started Login Test***************
+2024-08-03 12:07:39 INFO  TC002_AccountLoginTest:23 - *************Clicked on My account***************
+2024-08-03 12:07:39 INFO  TC002_AccountLoginTest:25 - *************Clicked on Login***************
+2024-08-03 12:07:39 INFO  TC002_AccountLoginTest:30 - *************Entered user nameand password***************
+2024-08-03 12:07:40 INFO  TC002_AccountLoginTest:32 - *************Page Submitted***************
